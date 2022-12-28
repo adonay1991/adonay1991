@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Atlax 360<br>🌱 I’m currently learning some technologies like SolidJS / to improve my skills in react and vue
+🔭 I’m currently working on Atlax 360<br>🌱 I’m currently learning some technologies like SolidJS / and working on improving my react and vue skills.
 
 
 ## 🌐 Socials:
